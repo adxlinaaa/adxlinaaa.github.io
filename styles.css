@@ -80,13 +80,10 @@ Content Sections - basic style
   margin: 0 auto;
   font-size: 2.6rem;
   line-height: 1.4;
-  transition: all .2s ease-in-out; 
+  
  
 }
 
-.cd-section h1, .cd-section h2:hover{
-	 transform: scale(1.1);
-}
 
 
 
@@ -299,3 +296,6 @@ Content Sections - basic style
 	display: inline;
   }
  
+.shadow {
+	display: inline;
+}
