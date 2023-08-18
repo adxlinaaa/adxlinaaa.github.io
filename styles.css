@@ -296,6 +296,11 @@ Content Sections - basic style
 	display: inline;
   }
  
-.shadow {
-	display: inline;
+.greeting {
+	color: #d7c0af;
+	
+}
+
+.greetings{
+	color: #e5d5cb;
 }
